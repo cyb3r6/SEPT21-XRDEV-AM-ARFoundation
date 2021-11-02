@@ -1,0 +1,690 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 49069 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+G:/CS-Desktop/Unity Projects/Classes/SEPT21-XRDEV-AM-ARFoundation/SEPT21-XRDEV-AM-ARFoundation
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49603
+Successfully changed project path to: G:/CS-Desktop/Unity Projects/Classes/SEPT21-XRDEV-AM-ARFoundation/SEPT21-XRDEV-AM-ARFoundation
+G:/CS-Desktop/Unity Projects/Classes/SEPT21-XRDEV-AM-ARFoundation/SEPT21-XRDEV-AM-ARFoundation
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/CS-Desktop/Unity Projects/Classes/SEPT21-XRDEV-AM-ARFoundation/SEPT21-XRDEV-AM-ARFoundation/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2486)
+    Vendor:   
+    VRAM:     8050 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56832
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002559 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 21.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.990 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000581 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.817 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1129 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.8 MB.
+System memory in use after: 57.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1571.
+Total: 1.420300 ms (FindLiveObjects: 0.137200 ms CreateObjectMapping: 0.031300 ms MarkObjects: 1.187100 ms  DeleteObjects: 0.063700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ARRobots/MyAssets/Joystick Pack/Prefabs/Fixed Joystick.prefab
+  artifactKey: Guid(aaa2c939c0359ac4dbce3f49e8b90252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/Joystick Pack/Prefabs/Fixed Joystick.prefab using Guid(aaa2c939c0359ac4dbce3f49e8b90252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6488ea54ce3ad34414a7dab8fcb5411e') in 0.051707 seconds
+  Import took 0.053330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 164.040353 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Prefab
+  artifactKey: Guid(7670e800fbde34081a106f8e82b43541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Prefab using Guid(7670e800fbde34081a106f8e82b43541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fb3b71a5d480e6562dee4c315a44613') in 0.006019 seconds
+  Import took 0.008250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.298131 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Prefab/RobotTouchSphere.prefab
+  artifactKey: Guid(4f8660b045afc1644a4a8de8e78e8d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Prefab/RobotTouchSphere.prefab using Guid(4f8660b045afc1644a4a8de8e78e8d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cece440a0c709776541f302cf6d2fee') in 0.721763 seconds
+  Import took 0.724207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.442287 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Prefab/RobotTouchSphere.prefab
+  artifactKey: Guid(4f8660b045afc1644a4a8de8e78e8d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Prefab/RobotTouchSphere.prefab using Guid(4f8660b045afc1644a4a8de8e78e8d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '585c119af17fc1f644102fc431ad7d4f') in 0.047918 seconds
+  Import took 0.051143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.905706 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.004390 seconds
+  Import took 0.006159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.187947 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(9bb85786fa0718745a7e251c373b5356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(9bb85786fa0718745a7e251c373b5356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0935c0d7914b076cdc95d1aa8c994138') in 0.032099 seconds
+  Import took 0.033990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.624651 seconds.
+  path: Assets/Scripts/RobotController.cs
+  artifactKey: Guid(2b489660a86348642a65e3801e6a6b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RobotController.cs using Guid(2b489660a86348642a65e3801e6a6b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7df5801e180501a2a20f138dea96b960') in 0.008382 seconds
+  Import took 0.010183 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000582 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.769 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1125 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.3 MB.
+System memory in use after: 61.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1583.
+Total: 1.454400 ms (FindLiveObjects: 0.106500 ms CreateObjectMapping: 0.027000 ms MarkObjects: 1.280700 ms  DeleteObjects: 0.039000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000887 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.812 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1125 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1586.
+Total: 1.496800 ms (FindLiveObjects: 0.111300 ms CreateObjectMapping: 0.029600 ms MarkObjects: 1.314300 ms  DeleteObjects: 0.040900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 279.379962 seconds.
+  path: Assets/Scripts/RobotController.cs
+  artifactKey: Guid(2b489660a86348642a65e3801e6a6b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RobotController.cs using Guid(2b489660a86348642a65e3801e6a6b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f3deaf19bdfbf9f86ca75fad5b109ec') in 0.005076 seconds
+  Import took 0.006747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.203656 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_cloed_Roll_Loop.fbx
+  artifactKey: Guid(a39d150aebfb4ce449f4a4f23709b822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_cloed_Roll_Loop.fbx using Guid(a39d150aebfb4ce449f4a4f23709b822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fa1134dcc7e3f4954b9b12f0dac4448') in 0.477837 seconds
+  Import took 0.481778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_open.fbx
+  artifactKey: Guid(ecb6e102166bfcf47b9206c2f8297fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_open.fbx using Guid(ecb6e102166bfcf47b9206c2f8297fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6bf928050b24d0ed737278874092511') in 0.164889 seconds
+  Import took 0.168274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_close.fbx
+  artifactKey: Guid(d7222f7175ac71943b44f3d2f8ae3453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_close.fbx using Guid(d7222f7175ac71943b44f3d2f8ae3453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa04fd5a854f65bc9f0aefc1b5b5fd31') in 0.178657 seconds
+  Import took 0.181093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_open_GoToRoll.fbx
+  artifactKey: Guid(f2fc0388a7c562e4fa0d179ac93423ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_open_GoToRoll.fbx using Guid(f2fc0388a7c562e4fa0d179ac93423ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ae0c2f7a16d924a73e60b9bca29248c') in 0.162214 seconds
+  Import took 0.164362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphereAnmCont.controller
+  artifactKey: Guid(8df5b386369d54778a922298504d1aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphereAnmCont.controller using Guid(8df5b386369d54778a922298504d1aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a3165b196bccbf66d1b85524593ef3c') in 0.011746 seconds
+  Import took 0.014579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_close.fbx
+  artifactKey: Guid(d7222f7175ac71943b44f3d2f8ae3453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_close.fbx using Guid(d7222f7175ac71943b44f3d2f8ae3453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa04fd5a854f65bc9f0aefc1b5b5fd31') in 0.173548 seconds
+  Import took 0.176416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_open_Walk_Loop.fbx
+  artifactKey: Guid(757bc78a1e5310740a2eee895c77111c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_open_Walk_Loop.fbx using Guid(757bc78a1e5310740a2eee895c77111c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ff5e57f4d0db98dbef9a8f9166c3abb') in 0.152948 seconds
+  Import took 0.157322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_Idle_Loop_S.fbx
+  artifactKey: Guid(52ad55bee0260b64da664da407ed38b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_Idle_Loop_S.fbx using Guid(52ad55bee0260b64da664da407ed38b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a14bc5d941a1a7294276a35f1001699') in 0.137883 seconds
+  Import took 0.140943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_closed_StopRoll.fbx
+  artifactKey: Guid(a04d47ebf8b64cc4a94b13a384a37882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Animation/robotSphere@anim_closed_StopRoll.fbx using Guid(a04d47ebf8b64cc4a94b13a384a37882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a73b2345d8ace6ac830ee4b83f04da3') in 0.139324 seconds
+  Import took 0.141510 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000614 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.801 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1125 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.1 MB.
+System memory in use after: 62.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1593.
+Total: 1.474900 ms (FindLiveObjects: 0.117100 ms CreateObjectMapping: 0.032900 ms MarkObjects: 1.274200 ms  DeleteObjects: 0.049500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 217.112742 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets
+  artifactKey: Guid(c65ada579c5f442c7a930662cc01abd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets using Guid(c65ada579c5f442c7a930662cc01abd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71691819ab2a2d33c9705491915a5c19') in 0.005638 seconds
+  Import took 0.007369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.852434 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Prefab/RobotTouchSphere.prefab
+  artifactKey: Guid(4f8660b045afc1644a4a8de8e78e8d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Prefab/RobotTouchSphere.prefab using Guid(4f8660b045afc1644a4a8de8e78e8d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87fd316250fd50a5e706e4526cd5428f') in 0.066740 seconds
+  Import took 0.069271 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001554 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.762 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1125 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.1 MB.
+System memory in use after: 62.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1597.
+Total: 1.346700 ms (FindLiveObjects: 0.111400 ms CreateObjectMapping: 0.029100 ms MarkObjects: 1.159800 ms  DeleteObjects: 0.045200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000712 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.743 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1125 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.1 MB.
+System memory in use after: 62.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1600.
+Total: 1.826500 ms (FindLiveObjects: 0.107200 ms CreateObjectMapping: 0.025500 ms MarkObjects: 1.509900 ms  DeleteObjects: 0.182900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000773 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.696 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1125 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.1 MB.
+System memory in use after: 62.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1603.
+Total: 1.538000 ms (FindLiveObjects: 0.133200 ms CreateObjectMapping: 0.031900 ms MarkObjects: 1.324200 ms  DeleteObjects: 0.047700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000596 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.046 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1411 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1893.
+Total: 2.167200 ms (FindLiveObjects: 0.177100 ms CreateObjectMapping: 0.049800 ms MarkObjects: 1.882500 ms  DeleteObjects: 0.056300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000695 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.789 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1470 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.4 MB.
+System memory in use after: 72.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1955.
+Total: 1.625200 ms (FindLiveObjects: 0.148000 ms CreateObjectMapping: 0.046600 ms MarkObjects: 1.375500 ms  DeleteObjects: 0.054100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 802.609825 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(ed6804f70cfbbec4291efc4c2e6f50ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(ed6804f70cfbbec4291efc4c2e6f50ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fccbfabb1078d5cbc00b1271a671cc3d') in 0.015691 seconds
+  Import took 0.018332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 267.338233 seconds.
+  path: Assets/ARRobots/MyAssets/CanonTower/Materials/Black.mat
+  artifactKey: Guid(987de89f4dab548f2be2509031ee79bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/CanonTower/Materials/Black.mat using Guid(987de89f4dab548f2be2509031ee79bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a97df357cd52aad6f140a8d12e4e4178') in 0.081934 seconds
+  Import took 0.084585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/ARRobots/MyAssets/CanonTower/Materials/Tower_Top_Deco_mat.mat
+  artifactKey: Guid(c696ba76ada0fae4b9725a7c7a7e325c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/CanonTower/Materials/Tower_Top_Deco_mat.mat using Guid(c696ba76ada0fae4b9725a7c7a7e325c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7681bcb5548850bf150f3bcfc2c912cd') in 0.010786 seconds
+  Import took 0.012868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/ARRobots/Materials/Brown.mat
+  artifactKey: Guid(6e8c05cbed7844eccac0f2d5bc468ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/Materials/Brown.mat using Guid(6e8c05cbed7844eccac0f2d5bc468ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a5b7be3350bce858427d96cf1f23619') in 0.019841 seconds
+  Import took 0.022049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/ARRobots/MyAssets/CanonTower/FBX/Materials/No Name.mat
+  artifactKey: Guid(7ba3ff02be28d4a1b95a68f7410e916f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/CanonTower/FBX/Materials/No Name.mat using Guid(7ba3ff02be28d4a1b95a68f7410e916f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b46161e46f575f909130cf964338869') in 0.011435 seconds
+  Import took 0.013578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/ARRobots/MyAssets/CanonTower/Materials/Shield_Big_mat.mat
+  artifactKey: Guid(ca7138d56ebeadb4ab3ef5fcb82f946d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/CanonTower/Materials/Shield_Big_mat.mat using Guid(ca7138d56ebeadb4ab3ef5fcb82f946d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '149ea41202a264476348fcfbbae6ae27') in 0.012873 seconds
+  Import took 0.015746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/ARRobots/MyAssets/CanonTower/Materials/Tower_Base_mat.mat
+  artifactKey: Guid(70c6189c8c8b4cc4da749c5ace637058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/CanonTower/Materials/Tower_Base_mat.mat using Guid(70c6189c8c8b4cc4da749c5ace637058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ec0d304771c7ff3c3ae2dc76c70508') in 0.016164 seconds
+  Import took 0.020178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000931 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Materials/eye_matAi.mat
+  artifactKey: Guid(f5da68cd484f44ced9e11ab1ad6a9c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Materials/eye_matAi.mat using Guid(f5da68cd484f44ced9e11ab1ad6a9c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e73fd93e234cd8b6be44cb20ab1974c') in 0.010936 seconds
+  Import took 0.013300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/ARRobots/MyAssets/CanonTower/Materials/Tower_Base_Deco_mat.mat
+  artifactKey: Guid(b128499fa9af31f46981e7e520f91556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/CanonTower/Materials/Tower_Base_Deco_mat.mat using Guid(b128499fa9af31f46981e7e520f91556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac3cba51f926c367411ef138fbbc9271') in 0.015703 seconds
+  Import took 0.018186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Materials/body_diff.mat
+  artifactKey: Guid(9f2645559b8b14773b709fbd9bd6e2ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Materials/body_diff.mat using Guid(9f2645559b8b14773b709fbd9bd6e2ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa5851f6cbe7c83c76ab8760d3538b8') in 0.012547 seconds
+  Import took 0.014913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/ARRobots/Materials/TransparentPlane.mat
+  artifactKey: Guid(f4c378bb4f5ef504ab057422c225e7cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/Materials/TransparentPlane.mat using Guid(f4c378bb4f5ef504ab057422c225e7cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a01774f28f84488f27d07095a7465d05') in 0.240928 seconds
+  Import took 0.243183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/ARRobots/MyAssets/CanonTower/Materials/Tower_Top_mat.mat
+  artifactKey: Guid(dd450e62cd3b7bd4f96ba5a499ed2f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/CanonTower/Materials/Tower_Top_mat.mat using Guid(dd450e62cd3b7bd4f96ba5a499ed2f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b58605f5e25bc9f11d1c0740fb532f3') in 0.014652 seconds
+  Import took 0.017005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Materials/visor_matAi.mat
+  artifactKey: Guid(01377584c22b84f819ecac7f4047c921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/Materials/visor_matAi.mat using Guid(01377584c22b84f819ecac7f4047c921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27544846b8069a23404097ad9be339c6') in 0.016803 seconds
+  Import took 0.019210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.922428 seconds.
+  path: Assets/Prefabs/ARPlane.prefab
+  artifactKey: Guid(58dcca7f08916d14787f747bb02144b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ARPlane.prefab using Guid(58dcca7f08916d14787f747bb02144b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b4c7a5e3be3d0fdd41b2fc7b2d65bb7') in 0.010483 seconds
+  Import took 0.012802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020072 seconds.
+  path: Assets/Prefabs/ARPlane.prefab
+  artifactKey: Guid(58dcca7f08916d14787f747bb02144b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ARPlane.prefab using Guid(58dcca7f08916d14787f747bb02144b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b4c7a5e3be3d0fdd41b2fc7b2d65bb7') in 0.004279 seconds
+  Import took 0.006593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 161.954315 seconds.
+  path: Assets/Scripts/TapToPlace.cs
+  artifactKey: Guid(a0d984c5708bbbc4c9ce8ab573446328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TapToPlace.cs using Guid(a0d984c5708bbbc4c9ce8ab573446328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084967a0e3b1397779aa912c33e235ce') in 0.003741 seconds
+  Import took 0.007698 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000606 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.825 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1467 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1994.
+Total: 1.979400 ms (FindLiveObjects: 0.155500 ms CreateObjectMapping: 0.097500 ms MarkObjects: 1.670200 ms  DeleteObjects: 0.055200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000654 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.790 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1467 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1998.
+Total: 1.615700 ms (FindLiveObjects: 0.138200 ms CreateObjectMapping: 0.038300 ms MarkObjects: 1.384700 ms  DeleteObjects: 0.053600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 686.862374 seconds.
+  path: Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/robotSphere.fbm/body_diff.png
+  artifactKey: Guid(0f7523ca4604342239a6c553c05a68ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARRobots/MyAssets/RobotSphere/Assets/Models/robotSphere.fbm/body_diff.png using Guid(0f7523ca4604342239a6c553c05a68ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d5dc9114a3740748acc49e068d23e5') in 0.050522 seconds
+  Import took 0.052822 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000664 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.114 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1471 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2003.
+Total: 3.882300 ms (FindLiveObjects: 0.439200 ms CreateObjectMapping: 0.180900 ms MarkObjects: 2.924600 ms  DeleteObjects: 0.335700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.7 MB.
+System memory in use after: 42.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 2003.
+Total: 3.633700 ms (FindLiveObjects: 0.228600 ms CreateObjectMapping: 0.086400 ms MarkObjects: 3.254800 ms  DeleteObjects: 0.062300 ms)
+
+========================================================================
+Received Prepare
+Switching build target platform(13) subTarget(537395200) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.7 MB.
+System memory in use after: 42.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 2003.
+Total: 1.791100 ms (FindLiveObjects: 0.136500 ms CreateObjectMapping: 0.039900 ms MarkObjects: 1.526300 ms  DeleteObjects: 0.087500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  buildTarget: platform 13, subtarget 524288, extendedPlatform 0 -> platform 13, subtarget 537395200, extendedPlatform 0
+  graphicsApiMask: 2048 -> 2099200
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000612 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.114 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1471 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2007.
+Total: 1.562800 ms (FindLiveObjects: 0.159700 ms CreateObjectMapping: 0.047300 ms MarkObjects: 1.297700 ms  DeleteObjects: 0.056900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  buildTarget: platform 13, subtarget 524288, extendedPlatform 0 -> platform 13, subtarget 537395200, extendedPlatform 0
+  graphicsApiMask: 2048 -> 2099200
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.7 MB.
+System memory in use after: 42.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 2007.
+Total: 1.925400 ms (FindLiveObjects: 0.159000 ms CreateObjectMapping: 0.043800 ms MarkObjects: 1.664500 ms  DeleteObjects: 0.057100 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.7 MB.
+System memory in use after: 42.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 2007.
+Total: 2.051900 ms (FindLiveObjects: 0.156900 ms CreateObjectMapping: 0.040900 ms MarkObjects: 1.802600 ms  DeleteObjects: 0.050500 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.7 MB.
+System memory in use after: 42.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 2007.
+Total: 1.849700 ms (FindLiveObjects: 0.152900 ms CreateObjectMapping: 0.040300 ms MarkObjects: 1.603800 ms  DeleteObjects: 0.051700 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.7 MB.
+System memory in use after: 42.8 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2008.
+Total: 2.783600 ms (FindLiveObjects: 0.173700 ms CreateObjectMapping: 0.043800 ms MarkObjects: 2.514400 ms  DeleteObjects: 0.050500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
