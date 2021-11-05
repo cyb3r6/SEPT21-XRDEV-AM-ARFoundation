@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
+using UnityEngine.XR.ARSubsystems;
 
 public class TapToPlace : MonoBehaviour
 {
@@ -25,7 +26,7 @@ public class TapToPlace : MonoBehaviour
             {
                 Vector2 touchPosition = Input.GetTouch(0).position;
 
-                if(aRRaycastManager.Raycast(touchPosition,hits, UnityEngine.XR.ARSubsystems.TrackableType.PlaneWithinPolygon))
+                if(aRRaycastManager.Raycast(touchPosition,hits, TrackableType.PlaneWithinPolygon))
                 {
                     var hitPose = hits[0].pose;
                     spawnedPrefab = Instantiate(robotPrefab, hitPose.position, hitPose.rotation);

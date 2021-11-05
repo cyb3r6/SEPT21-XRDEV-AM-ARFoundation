@@ -17,6 +17,8 @@ public class RobotController : MonoBehaviour
         robotAnim = GetComponent<Animator>();
         rigidBody = GetComponent<Rigidbody>();
         joystick = FindObjectOfType<Joystick>();
+
+        robotAnim.SetBool("Open_Anim", true);
     }
 
     
